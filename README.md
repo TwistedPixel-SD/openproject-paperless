@@ -1,2 +1,2 @@
 # openproject-paperless
-Plugin to use paperless as a storage option for openproject
+WIP, non-functional. Plugin to use paperless as a storage option for openproject
